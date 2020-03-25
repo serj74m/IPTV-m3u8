@@ -81,7 +81,6 @@ http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/746/index.m3u8
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/825/index.m3u8
 #EXTINF:0,Euronews Россия
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/828/index.m3u8
-
 #EXTINF:0,Ностальгия
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/102/index.m3u8
 #EXTINF:0,СТС Love
@@ -94,7 +93,6 @@ http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/509/index.m3u8
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/125/index.m3u8
 #EXTINF:0,РОДНОЕ КИНО
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/126/index.m3u8
-
 #EXTINF:0,Кинохит
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/516/index.m3u8
 #EXTINF:0,Amedia 2
@@ -145,7 +143,6 @@ http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/907/index.m3u8
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/722/index.m3u8
 #EXTINF:0,КИНОСВИДАНИЕ
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/728/index.m3u8
-
 #EXTINF:0,FAN
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/734/index.m3u8
 #EXTINF:0,НТВ‑ХИТ
@@ -856,7 +853,6 @@ http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2399/index.m3u8
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2400/index.m3u8
 #EXTINF:0,Футбол 3 HD
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/290/index.m3u8
-
 #EXTINF:0,5 канал UA
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/945/index.m3u8
 #EXTINF:0,FilmBox
@@ -1082,7 +1078,6 @@ http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2186/index.m3u8
 #EXTINF:0,Publika TV
 #EXTINF:0,РТР HD
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2181/index.m3u8
-
 EXTINF: -1,Prime
 http://212.0.215.115:80/Prime/mpegts
 #EXTINF: -1,Prime HD
