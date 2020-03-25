@@ -31,9 +31,6 @@ http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/508/index.m3u8
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/128/index.m3u8
 #EXTINF:0,РЕН ТВ (+2)
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/747/index.m3u8
-#EXTINF:-1,РЕН ТВ (+4)
-#EXTGRP:Кино и Сериалы
-https://tinyurl.com/sssc2tf/rentv/16/tvrecw/playlist.m3u8
 #EXTINF:0,КИНО ТВ
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/732/index.m3u8
 #EXTINF:0,Русская Комедия
