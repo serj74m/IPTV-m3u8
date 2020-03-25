@@ -1,18 +1,24 @@
 #EXTM3U
-#EXTINF:0,Первый HD
-http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/204/index.m3u8
 #EXTINF:0,Первый канал
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/127/index.m3u8
 #EXTINF:0,Первый канал (+2)
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/714/index.m3u8
+#EXTINF:0,Россия-24
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/507/index.m3u8
 #EXTINF:0,Россия 1
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/504/index.m3u8
-#EXTINF:0,Россия HD
-http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/205/index.m3u8
 #EXTINF:0,РТР
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2183/index.m3u8
 #EXTINF:0,НТВ
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/501/index.m3u8
+#EXTINF:0,Телеканал Звезда
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/544/index.m3u8
+#EXTINF:0,Звезда (+2)
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/739/index.m3u8
+#EXTINF:0,Победа
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2003/index.m3u8
+#EXTINF:0,Шансон ТВ
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/859/index.m3u8
 #EXTINF:0,ТНТ
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/502/index.m3u8
 #EXTINF:0,Пятница!
@@ -21,8 +27,6 @@ http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/503/index.m3u8
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/506/index.m3u8
 #EXTINF:0,ТВ3
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/508/index.m3u8
-#EXTINF:0,Рен ТВ HD
-http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2024/index.m3u8
 #EXTINF:0,РЕН ТВ
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/128/index.m3u8
 #EXTINF:0,РЕН ТВ (+2)
@@ -32,8 +36,6 @@ http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/747/index.m3u8
 https://tinyurl.com/sssc2tf/rentv/16/tvrecw/playlist.m3u8
 #EXTINF:0,КИНО ТВ
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/732/index.m3u8
-#EXTINF:0,КИНО ТВ HD
-http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2097/index.m3u8
 #EXTINF:0,Русская Комедия
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/733/index.m3u8
 #EXTINF:0,Че
@@ -60,20 +62,12 @@ http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/203/index.m3u8
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2105/index.m3u8
 #EXTINF:0,Мир
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/113/index.m3u8
-#EXTINF:0,Телеканал Звезда
-http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/544/index.m3u8
-#EXTINF:0,Звезда (+2)
-http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/739/index.m3u8
-#EXTINF:0,Победа
-http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2003/index.m3u8
 #EXTINF:0,Ю ТВ
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/534/index.m3u8
 #EXTINF:0,КВН ТВ
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/546/index.m3u8
 #EXTINF:0,Пятый канал
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/112/index.m3u8
-#EXTINF:0,Россия-24
-http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/507/index.m3u8
 #EXTINF:0,Москва 24
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/523/index.m3u8
 #EXTINF:0,BBC World News
@@ -647,6 +641,14 @@ http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2154/index.m3u8
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/206/index.m3u8
 #EXTINF:0,Матч! Арена HD
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/207/index.m3u8
+#EXTINF:0,Первый HD
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/204/index.m3u8
+#EXTINF:0,Россия HD
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/205/index.m3u8
+#EXTINF:0,Рен ТВ HD
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2024/index.m3u8
+#EXTINF:0,КИНО ТВ HD
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2097/index.m3u8
 #EXTINF:0,Hollywood HD
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/209/index.m3u8
 #EXTINF:0,RTG HD
