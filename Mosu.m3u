@@ -7,28 +7,16 @@ http://str05.ottg.tv/9226/mpegts?username=serj74m&password=9hy4bx2zh85&token=85a
 http://str05.ottg.tv/9413/mpegts?username=serj74m&password=9hy4bx2zh85&token=85a92f93cf46ab297a41a0d7ce6a8a41&ch_id=86&req_host=pkjX3BL
 #EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic-ts" tvg-id="ntv-mir"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/7870.png",НТВ Мир
 http://str05.ottg.tv/7870/mpegts?username=serj74m&password=9hy4bx2zh85&token=85a92f93cf46ab297a41a0d7ce6a8a41&ch_id=92&req_host=pkjX3BL
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic-ts" tvg-id="ntv-serial"  group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/3213.png",НТВ Сериал
+http://str05.ottg.tv/3213/mpegts?username=serj74m&password=9hy4bx2zh85&token=85a92f93cf46ab297a41a0d7ce6a8a41&ch_id=604&req_host=pkjX3BL
 #EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic-ts" tvg-id="tvcentr"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/7846.png",ТВЦ
 http://str05.ottg.tv/7846/mpegts?username=serj74m&password=9hy4bx2zh85&token=85a92f93cf46ab297a41a0d7ce6a8a41&ch_id=93&req_host=pkjX3BL
 #EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic-ts" tvg-id="5kanal-ru"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/4750.png",Пятый канал
 http://str05.ottg.tv/4750/mpegts?username=serj74m&password=9hy4bx2zh85&token=85a92f93cf46ab297a41a0d7ce6a8a41&ch_id=97&req_host=pkjX3BL
-#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic-ts" tvg-id="5kanal-ru-pl2"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/4447.png",Пятый канал +2
-http://str05.ottg.tv/4447/mpegts?username=serj74m&password=9hy4bx2zh85&token=85a92f93cf46ab297a41a0d7ce6a8a41&ch_id=98&req_host=pkjX3BL
-#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic-ts" tvg-id="5kanal-ru-pl4"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/8598.png",Пятый канал +4
-http://str05.ottg.tv/8598/mpegts?username=serj74m&password=9hy4bx2zh85&token=85a92f93cf46ab297a41a0d7ce6a8a41&ch_id=99&req_host=pkjX3BL
-#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic-ts" tvg-id="5kanal-ru-pl7"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/5413.png",Пятый канал +6
-http://str05.ottg.tv/5413/mpegts?username=serj74m&password=9hy4bx2zh85&token=85a92f93cf46ab297a41a0d7ce6a8a41&ch_id=100&req_host=pkjX3BL
 #EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic-ts" tvg-id="tnt"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/2468.png",ТНТ
 http://str05.ottg.tv/2468/mpegts?username=serj74m&password=9hy4bx2zh85&token=85a92f93cf46ab297a41a0d7ce6a8a41&ch_id=101&req_host=pkjX3BL
 #EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic-ts" tvg-id="sts"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/9716.png",СТС
 http://str05.ottg.tv/9716/mpegts?username=serj74m&password=9hy4bx2zh85&token=85a92f93cf46ab297a41a0d7ce6a8a41&ch_id=106&req_host=pkjX3BL
-#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic-ts" tvg-id="sts-love"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/6621.png",СТС Love
-http://str05.ottg.tv/6621/mpegts?username=serj74m&password=9hy4bx2zh85&token=85a92f93cf46ab297a41a0d7ce6a8a41&ch_id=110&req_host=pkjX3BL
-#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic-ts" tvg-id="rentv"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/8082.png",Рен ТВ HD
-http://str05.ottg.tv/8082/mpegts?username=serj74m&password=9hy4bx2zh85&token=85a92f93cf46ab297a41a0d7ce6a8a41&ch_id=111&req_host=pkjX3BL
-#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic-ts" tvg-id="rentv-pl2"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/7175.png",Рен ТВ +2
-http://str05.ottg.tv/7175/mpegts?username=serj74m&password=9hy4bx2zh85&token=85a92f93cf46ab297a41a0d7ce6a8a41&ch_id=112&req_host=pkjX3BL
-#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic-ts" tvg-id="rentv-pl7"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/2741.png",Рен ТВ +6
-http://str05.ottg.tv/2741/mpegts?username=serj74m&password=9hy4bx2zh85&token=85a92f93cf46ab297a41a0d7ce6a8a41&ch_id=113&req_host=pkjX3BL
 #EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic-ts" tvg-id="mir"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/2810.png",Мир ТВ
 http://str05.ottg.tv/2810/mpegts?username=serj74m&password=9hy4bx2zh85&token=85a92f93cf46ab297a41a0d7ce6a8a41&ch_id=114&req_host=pkjX3BL
 #EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic-ts" tvg-id="shanson-tv"  group-title="Музыкальные" tvg-logo="http://pl.ottg.tv:80/icon/5260.png",Шансон TB
@@ -47,6 +35,14 @@ http://str05.ottg.tv/9283/mpegts?username=serj74m&password=9hy4bx2zh85&token=85a
 http://str05.ottg.tv/3638/mpegts?username=serj74m&password=9hy4bx2zh85&token=85a92f93cf46ab297a41a0d7ce6a8a41&ch_id=432&req_host=pkjX3BL
 #EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic-ts" tvg-id="rentv"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/6401.png",Рен ТВ
 http://str05.ottg.tv/6401/mpegts?username=serj74m&password=9hy4bx2zh85&token=85a92f93cf46ab297a41a0d7ce6a8a41&ch_id=477&req_host=pkjX3BL
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic-ts" tvg-id="sts-love"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/6621.png",СТС Love
+http://str05.ottg.tv/6621/mpegts?username=serj74m&password=9hy4bx2zh85&token=85a92f93cf46ab297a41a0d7ce6a8a41&ch_id=110&req_host=pkjX3BL
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic-ts" tvg-id="rentv"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/8082.png",Рен ТВ HD
+http://str05.ottg.tv/8082/mpegts?username=serj74m&password=9hy4bx2zh85&token=85a92f93cf46ab297a41a0d7ce6a8a41&ch_id=111&req_host=pkjX3BL
+#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic-ts" tvg-id="rentv-pl2"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/7175.png",Рен ТВ +2
+http://str05.ottg.tv/7175/mpegts?username=serj74m&password=9hy4bx2zh85&token=85a92f93cf46ab297a41a0d7ce6a8a41&ch_id=112&req_host=pkjX3BL
+#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic-ts" tvg-id="rentv-pl7"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/2741.png",Рен ТВ +6
+http://str05.ottg.tv/2741/mpegts?username=serj74m&password=9hy4bx2zh85&token=85a92f93cf46ab297a41a0d7ce6a8a41&ch_id=113&req_host=pkjX3BL
 #EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic-ts" tvg-id="ntv-xit"  group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/1445.png",НТВ Хит
 http://str05.ottg.tv/1445/mpegts?username=serj74m&password=9hy4bx2zh85&token=85a92f93cf46ab297a41a0d7ce6a8a41&ch_id=482&req_host=pkjX3BL
 #EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic-ts" tvg-id="kvartal-tv"  group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/1142.png",Квартал ТВ
@@ -55,8 +51,6 @@ http://str05.ottg.tv/1142/mpegts?username=serj74m&password=9hy4bx2zh85&token=85a
 http://str05.ottg.tv/9567/mpegts?username=serj74m&password=9hy4bx2zh85&token=85a92f93cf46ab297a41a0d7ce6a8a41&ch_id=484&req_host=pkjX3BL
 #EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic-ts" tvg-id="kinosat"  group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/6899.png",Киносат
 http://str05.ottg.tv/6899/mpegts?username=serj74m&password=9hy4bx2zh85&token=85a92f93cf46ab297a41a0d7ce6a8a41&ch_id=603&req_host=pkjX3BL
-#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic-ts" tvg-id="ntv-serial"  group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/3213.png",НТВ Сериал
-http://str05.ottg.tv/3213/mpegts?username=serj74m&password=9hy4bx2zh85&token=85a92f93cf46ab297a41a0d7ce6a8a41&ch_id=604&req_host=pkjX3BL
 #EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic-ts" tvg-id="nashe-muzhskoe"  group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/5365.png",Наше Мужское HD
 http://str05.ottg.tv/5365/mpegts?username=serj74m&password=9hy4bx2zh85&token=85a92f93cf46ab297a41a0d7ce6a8a41&ch_id=759&req_host=pkjX3BL
 #EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic-ts" tvg-id="pro-lyubov"  group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/2645.png",Про Любовь HD
@@ -405,6 +399,12 @@ http://str05.ottg.tv/5288/mpegts?username=serj74m&password=9hy4bx2zh85&token=85a
 http://str05.ottg.tv/5156/mpegts?username=serj74m&password=9hy4bx2zh85&token=85a92f93cf46ab297a41a0d7ce6a8a41&ch_id=160&req_host=pkjX3BL
 #EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic-ts" tvg-id="tnt4-pl7"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/9300.png",ТНТ4 +6
 http://str05.ottg.tv/9300/mpegts?username=serj74m&password=9hy4bx2zh85&token=85a92f93cf46ab297a41a0d7ce6a8a41&ch_id=161&req_host=pkjX3BL
+#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic-ts" tvg-id="5kanal-ru-pl2"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/4447.png",Пятый канал +2
+http://str05.ottg.tv/4447/mpegts?username=serj74m&password=9hy4bx2zh85&token=85a92f93cf46ab297a41a0d7ce6a8a41&ch_id=98&req_host=pkjX3BL
+#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic-ts" tvg-id="5kanal-ru-pl4"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/8598.png",Пятый канал +4
+http://str05.ottg.tv/8598/mpegts?username=serj74m&password=9hy4bx2zh85&token=85a92f93cf46ab297a41a0d7ce6a8a41&ch_id=99&req_host=pkjX3BL
+#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic-ts" tvg-id="5kanal-ru-pl7"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/5413.png",Пятый канал +6
+http://str05.ottg.tv/5413/mpegts?username=serj74m&password=9hy4bx2zh85&token=85a92f93cf46ab297a41a0d7ce6a8a41&ch_id=100&req_host=pkjX3BL
 #EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic-ts" tvg-id="match-igra"  group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/4780.png",Матч! Игра HD
 http://str05.ottg.tv/4780/mpegts?username=serj74m&password=9hy4bx2zh85&token=85a92f93cf46ab297a41a0d7ce6a8a41&ch_id=277&req_host=pkjX3BL
 #EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic-ts" tvg-id="match-nash-sport"  group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/7937.png",Матч! Страна
