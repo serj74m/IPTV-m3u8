@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:0 tvg-rec="7",Первый HD
-#EXTGRP:Общие
-https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
 #EXTINF:0,Первый канал
 https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
 #EXTINF:0,Первый канал (+1)
