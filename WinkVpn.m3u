@@ -1,4 +1,42 @@
 #EXTM3U
+#EXTINF:-1 group-title="Таттелеком (🇷🇺🇷🇺🇷🇺)",Первый канал
+http://89.232.68.194:8080/1kanal/tracks-v3a1/index.m3u8
+#EXTINF:-1 group-title="Таттелеком (🇷🇺🇷🇺🇷🇺)",НТВ
+http://89.232.68.194:8080/ntv/tracks-v3a1/index.m3u8
+#EXTINF:-1 group-title="Таттелеком (🇷🇺🇷🇺🇷🇺)",ТНТ
+http://89.232.68.194:8080/tnt/tracks-v3a1/index.m3u8
+#EXTINF:-1 group-title="Таттелеком (🇷🇺🇷🇺🇷🇺)",Рен ТВ
+http://89.232.68.194:8080/rentv/tracks-v3a1/index.m3u8
+#EXTINF:-1 group-title="Таттелеком (🇷🇺🇷🇺🇷🇺)",Россия 1
+http://89.232.68.194:8080/rossiya1/tracks-v3a1/index.m3u8
+#EXTINF:-1 group-title="Таттелеком (🇷🇺🇷🇺🇷🇺)",Россия К
+http://89.232.68.194:8080/rossiyak/tracks-v3a1/index.m3u8
+#EXTINF:-1 group-title="Таттелеком (🇷🇺🇷🇺🇷🇺)",Viasat History
+http://89.232.68.194:8080/HISTORY/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Таттелеком (🇷🇺🇷🇺🇷🇺)",Пятый канал
+http://89.232.68.194:8080/5kanal/tracks-v3a1/index.m3u8
+#EXTINF:-1 group-title="Таттелеком (🇷🇺🇷🇺🇷🇺)",2x2
+http://89.232.68.194:8080/2x2/tracks-v3a1/index.m3u8
+#EXTINF:-1 group-title="Таттелеком (🇷🇺🇷🇺🇷🇺)",VIP Comedy HD
+http://89.232.68.194:8080/ComedyHD/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Таттелеком (🇷🇺🇷🇺🇷🇺)",Кинопоказ
+http://89.232.68.194:8080/kinopokaz/tracks-v3a1/index.m3u8
+#EXTINF:-1 group-title="Таттелеком (🇷🇺🇷🇺🇷🇺)",Пятница
+http://89.232.68.194:8080/pyatnitsa/tracks-v3a1/index.m3u8
+#EXTINF:-1 group-title="Таттелеком (🇷🇺🇷🇺🇷🇺)",СТС
+http://89.232.68.194:8080/sts/tracks-v3a1/index.m3u8
+#EXTINF:-1 group-title="Таттелеком (🇷🇺🇷🇺🇷🇺)",TMTV
+http://89.232.68.194:8080/tmtv/tracks-v3a1/index.m3u8
+#EXTINF:-1 group-title="Таттелеком (🇷🇺🇷🇺🇷🇺)",ТНВ-Татарстан
+http://89.232.68.194:8080/tnv/tracks-v3a1/index.m3u8
+#EXTINF:-1 group-title="Таттелеком (🇷🇺🇷🇺🇷🇺)",ТВ3
+http://89.232.68.194:8080/tv3/tracks-v3a1/index.m3u8
+#EXTINF:-1 group-title="Таттелеком (🇷🇺🇷🇺🇷🇺)",Карусель
+http://89.232.68.194:8080/karusel/tracks-v3a1/index.m3u8
+#EXTINF:-1 group-title="Таттелеком (🇷🇺🇷🇺🇷🇺)",Матч Премьер
+http://89.232.68.194:8080/matchpremier/tracks-v3a1/index.m3u8
+
+
 #EXTINF:-1 group-title="Wink (???????????? ????)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Первый канал
 https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
 #EXTINF:-1 group-title="Wink (???????????? ????)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Первый канал (+1)
