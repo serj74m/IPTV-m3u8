@@ -1,5 +1,52 @@
 #EXTM3U
 
+
+#EXTINF:-1 group-title="IP Petrosyan (🇷🇺🇷🇺🇷🇺)",РЕН ТВ
+http://95.47.156.60:8000/play/11/index.m3u8
+#EXTINF:-1 group-title="IP Petrosyan (🇷🇺🇷🇺🇷🇺)",РОССИЯ К
+http://95.47.156.60:8000/play/6/index.m3u8
+#EXTINF:-1 group-title="IP Petrosyan (🇷🇺🇷🇺🇷🇺)",ТНТ
+http://95.47.156.60:8000/play/19/index.m3u8
+#EXTINF:-1 group-title="IP Petrosyan (🇷🇺🇷🇺🇷🇺)",НТВ
+http://95.47.156.60:8000/play/4/index.m3u8
+#EXTINF:-1 group-title="IP Petrosyan (🇷🇺🇷🇺🇷🇺)",ПЯТЫЙ КАНАЛ
+http://95.47.156.60:8000/play/5/index.m3u8
+#EXTINF:-1 group-title="IP Petrosyan (🇷🇺🇷🇺🇷🇺)",Архыз 24
+http://95.47.156.60:8000/play/a00w/index.m3u8
+#EXTINF:-1 group-title="IP Petrosyan (🇷🇺🇷🇺🇷🇺)",Домашний
+http://95.47.156.60:8000/play/14/index.m3u8
+#EXTINF:-1 group-title="IP Petrosyan (🇷🇺🇷🇺🇷🇺)",Звезда
+http://95.47.156.60:8000/play/17/index.m3u8
+#EXTINF:-1 group-title="IP Petrosyan (🇷🇺🇷🇺🇷🇺)",МИР
+http://95.47.156.60:8000/play/18/index.m3u8
+#EXTINF:-1 group-title="IP Petrosyan (🇷🇺🇷🇺🇷🇺)",ММТВ
+http://95.47.156.60:8000/play/a014/index.m3u8
+#EXTINF:-1 group-title="IP Petrosyan (🇷🇺🇷🇺🇷🇺)",ПРНК
+http://95.47.156.60:8000/play/a013/index.m3u8
+#EXTINF:-1 group-title="IP Petrosyan (🇷🇺🇷🇺🇷🇺)",Пятница
+http://95.47.156.60:8000/play/16/index.m3u8
+#EXTINF:-1 group-title="IP Petrosyan (🇷🇺🇷🇺🇷🇺)",Резонанс ТВ
+http://95.47.156.60:8000/play/a015/index.m3u8
+#EXTINF:-1 group-title="IP Petrosyan (🇷🇺🇷🇺🇷🇺)",СТС
+http://95.47.156.60:8000/play/13/index.m3u8
+#EXTINF:-1 group-title="IP Petrosyan (🇷🇺🇷🇺🇷🇺)",Своё ТВ
+http://95.47.156.60:8000/play/21/index.m3u8
+#EXTINF:-1 group-title="IP Petrosyan (🇷🇺🇷🇺🇷🇺)",Спас
+http://95.47.156.60:8000/play/12/index.m3u8
+#EXTINF:-1 group-title="IP Petrosyan (🇷🇺🇷🇺🇷🇺)",ТБВ
+http://95.47.156.60:8000/play/a012/index.m3u8
+#EXTINF:-1 group-title="IP Petrosyan (🇷🇺🇷🇺🇷🇺)",ТВЦ
+http://95.47.156.60:8000/play/10/index.m3u8
+#EXTINF:-1 group-title="IP Petrosyan (🇷🇺🇷🇺🇷🇺)",ТВ3
+http://95.47.156.60:8000/play/15/index.m3u8
+#EXTINF:-1 group-title="IP Petrosyan (🇷🇺🇷🇺🇷🇺)",КАРУСЕЛЬ
+http://95.47.156.60:8000/play/8/index.m3u8
+#EXTINF:-1 group-title="IP Petrosyan (🇷🇺🇷🇺🇷🇺)",МузТВ
+http://95.47.156.60:8000/play/20/index.m3u8
+#EXTINF:-1 group-title="IP Petrosyan (🇷🇺🇷🇺🇷🇺)",МАТЧ ТВ
+http://95.47.156.60:8000/play/3/index.m3u8
+
+
 #EXTINF:-1 group-title="Wink (???????????? ????)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Первый канал
 https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
 #EXTINF:-1 group-title="Wink (???????????? ????)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Первый канал (+1)
@@ -791,40 +838,3 @@ http://fashion.mediacdn.ru/cdn/fashiontv/tracks-v1a1/mono.m3u8
 http://cdn.wfc.tv/cdn/stream-rus-720p.m3u8
 #EXTINF:-1 group-title="Хобби" audio-track="rus" , World Fashion Channel HD
 http://cdn.wfc.tv/cdn/stream-rus-1080p.m3u8
-
-#EXTINF:-1 group-title="Таттелеком (🇷🇺🇷🇺🇷🇺)",Первый канал
-http://89.232.68.194:8080/1kanal/tracks-v3a1/index.m3u8
-#EXTINF:-1 group-title="Таттелеком (🇷🇺🇷🇺🇷🇺)",НТВ
-http://89.232.68.194:8080/ntv/tracks-v3a1/index.m3u8
-#EXTINF:-1 group-title="Таттелеком (🇷🇺🇷🇺🇷🇺)",ТНТ
-http://89.232.68.194:8080/tnt/tracks-v3a1/index.m3u8
-#EXTINF:-1 group-title="Таттелеком (🇷🇺🇷🇺🇷🇺)",Рен ТВ
-http://89.232.68.194:8080/rentv/tracks-v3a1/index.m3u8
-#EXTINF:-1 group-title="Таттелеком (🇷🇺🇷🇺🇷🇺)",Россия 1
-http://89.232.68.194:8080/rossiya1/tracks-v3a1/index.m3u8
-#EXTINF:-1 group-title="Таттелеком (🇷🇺🇷🇺🇷🇺)",Россия К
-http://89.232.68.194:8080/rossiyak/tracks-v3a1/index.m3u8
-#EXTINF:-1 group-title="Таттелеком (🇷🇺🇷🇺🇷🇺)",Viasat History
-http://89.232.68.194:8080/HISTORY/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Таттелеком (🇷🇺🇷🇺🇷🇺)",Пятый канал
-http://89.232.68.194:8080/5kanal/tracks-v3a1/index.m3u8
-#EXTINF:-1 group-title="Таттелеком (🇷🇺🇷🇺🇷🇺)",2x2
-http://89.232.68.194:8080/2x2/tracks-v3a1/index.m3u8
-#EXTINF:-1 group-title="Таттелеком (🇷🇺🇷🇺🇷🇺)",VIP Comedy HD
-http://89.232.68.194:8080/ComedyHD/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Таттелеком (🇷🇺🇷🇺🇷🇺)",Кинопоказ
-http://89.232.68.194:8080/kinopokaz/tracks-v3a1/index.m3u8
-#EXTINF:-1 group-title="Таттелеком (🇷🇺🇷🇺🇷🇺)",Пятница
-http://89.232.68.194:8080/pyatnitsa/tracks-v3a1/index.m3u8
-#EXTINF:-1 group-title="Таттелеком (🇷🇺🇷🇺🇷🇺)",СТС
-http://89.232.68.194:8080/sts/tracks-v3a1/index.m3u8
-#EXTINF:-1 group-title="Таттелеком (🇷🇺🇷🇺🇷🇺)",TMTV
-http://89.232.68.194:8080/tmtv/tracks-v3a1/index.m3u8
-#EXTINF:-1 group-title="Таттелеком (🇷🇺🇷🇺🇷🇺)",ТНВ-Татарстан
-http://89.232.68.194:8080/tnv/tracks-v3a1/index.m3u8
-#EXTINF:-1 group-title="Таттелеком (🇷🇺🇷🇺🇷🇺)",ТВ3
-http://89.232.68.194:8080/tv3/tracks-v3a1/index.m3u8
-#EXTINF:-1 group-title="Таттелеком (🇷🇺🇷🇺🇷🇺)",Карусель
-http://89.232.68.194:8080/karusel/tracks-v3a1/index.m3u8
-#EXTINF:-1 group-title="Таттелеком (🇷🇺🇷🇺🇷🇺)",Матч Премьер
-http://89.232.68.194:8080/matchpremier/tracks-v3a1/index.m3u8
